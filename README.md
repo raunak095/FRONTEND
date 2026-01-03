@@ -1,44 +1,91 @@
 <div align="center">
-  <a href="https://github.com/Sayanti6">
-    <img
-      src="https://github.com/Sayanti6/Sayanti6/blob/output/github-contribution-grid-snake.svg"
-      alt="snake animation"
-      width="90%"
-    />
-  </a>
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/Sayanti6/Sayanti6/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/Sayanti6/Sayanti6/blob/output/github-contribution-grid-snake.svg"
-       alt="snake animation"
-       width="90%">
-</picture>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<p align="center">
-  👀 Curious? <b><a href="https://github.com/Sayanti6">Explore my repositories</a></b>  
-  <br/>
-  🚀 Building • Learning • Evolving
-</p>
-<h2 align="center">🐍 Watch my contributions come alive</h2>
-<p align="center"><i>Because consistency should look this cool ✨</i></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# 🌸 Hi there, wanderer! 🌸  
+## I'm Shruti (aka shruti-sen2004)
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://github.com/Sayanti6">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://github.com/Sayanti6/Sayanti6/blob/output/github-contribution-grid-snake-dark.svg">
-      <img src="https://github.com/Sayanti6/Sayanti6/blob/output/github-contribution-grid-snake.svg"
-           alt="snake animation"
-           width="90%">
-    </picture>
-  </a>
+🎓 B.Tech (CSE) Student | 💻 Tech & Non-Tech Enthusiast | 🌱 Open Source Contributor  
 </div>
 
-<p align="center">
-  👀 Curious? <b><a href="https://github.com/Sayanti6">Explore my repositories</a></b>  
-  <br/>
-  🚀 Building • Learning • Evolving
-</p>
+---
+
+## ✨ About Me
+
+I'm a **B.Tech student** with a passion for both **technical and non-technical activities**.  
+I've actively contributed to **Hacktoberfest since 2022**, and I'm proud to be:
+
+- 🏆 **Hacksquad 2023 Finalist** (Rank **22**) with team *Idea Mate*  
+- 🌟 **SBH 2024 Finalist**
+
+💖 *Welcome to my corner of the internet!*
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** `senshruti2020@gmail.com`
+- 🔗 **LinkedIn:** [linkedin.com/in/sen-shruti](https://www.linkedin.com/in/sen-shruti)
+- 🌐 **Portfolio:** [https://shruti.is-a.dev/](https://shruti.is-a.dev/)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shruti-sen2004&theme=onedark&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shruti-sen2004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-sen2004&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Current Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shruti-sen2004&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎨 My Hobbies
+
+- 🖌️ Painting  
+- 💃 Dancing  
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,java,mysql,oracle,git,github" />
+
+</div>
+
+---
+
+## 🪪 Quick Info Card
+
+```txt
+Name       : Shruti Sen
+Education  : B.Tech (CSE) @ NSEC
+GitHub     : shruti-sen2004
+LinkedIn   : sen-shruti
