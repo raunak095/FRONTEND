@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌸 Hi there, wanderer! 🌸  
-## I'm Shruti (aka shruti-sen2004)
+## I'm Sayanti (aka Sayanti6)
 
 </div>
 
@@ -27,7 +27,7 @@ I've actively contributed to **Hacktoberfest since 2022**, and I'm proud to be:
 
 ## 📬 Contact Me
 
-- 📧 **Email:** `senshruti2020@gmail.com`
+- 📧 **Email:** `riataghosh@gmail.com`
 - 🔗 **LinkedIn:** [linkedin.com/in/sen-shruti](https://www.linkedin.com/in/sen-shruti)
 - 🌐 **Portfolio:** [https://shruti.is-a.dev/](https://shruti.is-a.dev/)
 
@@ -85,7 +85,7 @@ I've actively contributed to **Hacktoberfest since 2022**, and I'm proud to be:
 ## 🪪 Quick Info Card
 
 ```txt
-Name       : Shruti Sen
-Education  : B.Tech (CSE) @ NSEC
-GitHub     : shruti-sen2004
+Name       : Sayanti Ghosh
+Education  : B.Tech (CSE) @ HITK
+GitHub     : Sayanti6
 LinkedIn   : sen-shruti
